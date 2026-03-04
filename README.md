@@ -1,4 +1,4 @@
-# Teste-T-cnico-Desenvolvedor-RPA-Jr---ONFLY
+# Teste Técnico Desenvolvedor RPA Jr - ONFLY
 Desenvolver uma automação que realize coleta, integração e consolidação de dados a partir de uma página web e de uma API pública.
 
 📌 Desafio
